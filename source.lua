@@ -1388,7 +1388,7 @@ local library library = {
 
         options = settings.new({
             text = "New Window",
-            size = Vector2.new(800, 400),
+            size = Vector2.new(500, 300),
             shadow = 10,
             transparency = 0.2,
             color = Color3.fromRGB(41, 74, 122),
